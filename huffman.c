@@ -1,5 +1,5 @@
-#include "../include/headers.h"
-#include "../include/huffman.h"
+#include "./headers.h"
+#include "./huffman.h"
 
 // HUFFMAN PRIVATE TYPES
 
